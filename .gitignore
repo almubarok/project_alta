@@ -1,0 +1,14 @@
+vendor
+backend-microservices
+bin
+.env
+main_service.go
+
+*.pem
+*.key
+coverage.txt
+example/
+cmd/candi/test/
+.vscode
+.idea
+.DS_Store
